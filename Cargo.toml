@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "crates/ntscloom-core",
+  "apps/cli",
+  "apps/gui",
+]
+resolver = "2"
